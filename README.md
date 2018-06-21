@@ -1,7 +1,7 @@
 
 # Cascade Update
 
-## Oracle SQL and PL/SQL solution
+## Oracle SQL and PL/SQL solution to overwrite a primary or any other unique key column value
 
 ### Why? ###
 
